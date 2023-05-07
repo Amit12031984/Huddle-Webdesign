@@ -1,0 +1,21 @@
+@media(max-width:75em) {
+    .grid {
+        grid-template-columns: 1fr;
+    }
+
+    .social-icons {
+        justify-content: center;
+    }
+
+    .content-text-box {
+        text-align: center;
+    }
+
+    body {
+        background-image: url("../images/bg-mobile.svg");
+    }
+}
+@media(max-width:50em)
+{
+
+}
